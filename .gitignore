@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
+#the boltenia geotiff is too large to be tracked by github. This file must be pasted manually and this line of code
+#will prevent github for tracking any files with a .tif extension within this project. 
+*.tif
